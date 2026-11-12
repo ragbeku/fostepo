@@ -1,0 +1,2 @@
+/* Legacy compatibility file. All pages now use the shared assets/css/style.css stylesheet. */
+@import url("style.css");
